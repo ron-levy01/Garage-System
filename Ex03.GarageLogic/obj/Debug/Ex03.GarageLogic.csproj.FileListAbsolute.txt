@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\Lenovo\Desktop\C#\Ex03\B21 Ex03 NivNisanov 316046390 RonLevy 208677203\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
